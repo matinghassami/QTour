@@ -12,8 +12,8 @@
         font-family: iransans-light;
         font-style: normal;
         font-weight: normal;
-        src: url('../font/IRANSansWeb_Light.eot');
-        src: url('../font/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'), url('../font/IRANSansWeb_Light.woff2') format('woff2'), url('../font/IRANSansWeb_Light.woff') format('woff'), url('../font/IRANSansWeb_Light.ttf') format('truetype');
+        src: url('./font/IRANSansWeb_Light.eot');
+        src: url('./font/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'), url('./font/IRANSansWeb_Light.woff2') format('woff2'), url('./font/IRANSansWeb_Light.woff') format('woff'), url('./font/IRANSansWeb_Light.ttf') format('truetype');
       }
       
       @font-face {
